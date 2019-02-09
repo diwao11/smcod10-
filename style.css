@@ -1,0 +1,16 @@
+img {
+  width: 100px;
+}
+
+div ol {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  width: 50%;
+}
+
+p {
+	width: 200px;
+}
